@@ -37,11 +37,6 @@ This notebook explores a retail dataset to answer various business-related quest
 6. **Shelf Arrangement Recommendations**
     - Using association rules to suggest items for the same shelf
 
-## Usage
-
-1. Open the [Colab Notebook](https://colab.research.google.com/drive/1em4db3Yvjvcu11ZwClieOun6ApGLkrKV#scrollTo=SUGxKV1bq2G3).
-2. Run the notebook cells sequentially to analyze the retail data.
-
 ## Dependencies
 
 - Pandas
@@ -63,9 +58,3 @@ Report any issues or suggest improvements on the [Issues](https://github.com/you
 ## Credits
 
 Thanks to the creators of the Apyori library and other tools used in this analysis.
-
-## Author
-
-Your Name
-- GitHub: [YourGitHubUsername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourlinkedinprofile)
